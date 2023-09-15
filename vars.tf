@@ -10,4 +10,4 @@ variable "component" {
 variable "deployment_mode" {}
 variable "host_instance_type"{}
 variable "engine_type" {}
-variable "engine_version " {}
+variable "engine_version" {}
